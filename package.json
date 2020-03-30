@@ -1,5 +1,13 @@
 {
   "name": "date-string-output-formatter",
+  "author": {
+    "url": "https://github.com/celalertug",
+    "name": "celalertug",
+    "email": "celalertug@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/celalertug/date-string-output-formatter"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"
