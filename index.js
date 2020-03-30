@@ -7,4 +7,3 @@ const formatter = dateObject => dateObject.getUTCFullYear() + "/" +
 
 module.exports = {formatter};
 
-console.log(formatter(new Date("2019-1-1 21:45")));;
